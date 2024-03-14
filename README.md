@@ -61,6 +61,6 @@ de energía y solo tiene 50), tampoco quiere comerlo porque no puede.
 - Tom puede comer a Nibbles está a 96 de distancia, (gastaría 48 de energia)
 Pero no lo va a querer comer, porque a pesar de poder, solo recibíra 47 de energia 
 
-- En cambio si Nibbles está a 60 metros, tom lo puede comer (gastaría 15 de energía)
+- En cambio si Nibbles está a 60 metros, tom lo puede comer (gastaría 30 de energía)
 y también lo va a querer comer (recibiría 47).
 
